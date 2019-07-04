@@ -1,16 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-
-/*int date;
-int month;
-int year;
-int sub;
-int yc;
-int leap;
-int add;
-int r;
-int result;
-char ch;*/
 int main()
 {
 int date;
