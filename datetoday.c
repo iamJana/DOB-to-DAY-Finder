@@ -15,7 +15,7 @@ char ch;
 do
 {
 printf("-----------------------------------------------------------------------\n");
-printf("	\tWELCOME TO JAES DOB TO DAY FINDER\n");
+printf("	\tWELCOME TO JANA DOB TO DAY FINDER\n");
 printf("				\t\t\tWritten by JANA\n");
 printf("-----------------------------------------------------------------------\n");
 
